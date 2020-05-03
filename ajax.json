@@ -1,0 +1,86 @@
+{
+    "products":[
+        {
+            "serial no":"1",
+            "name":"RICE",
+            "quantity":"10",
+            "unit":"Kilo-gram",
+            "department":"Grocery",
+            "notes":"Nirapara"
+        },
+        {
+            "serial no":"2",
+            "name":"SUGAR",
+            "quantity":"3",
+            "unit":"Kilo-gram",
+            "department":"Grocery",
+            "notes":"Tata"
+        },
+        {
+            "serial no":"3",
+            "name":"CHILLY POWDER",
+            "quantity":"2",
+            "unit":"Kilo-gram",
+            "department":"Grocery",
+            "notes":"Eastern"
+        },
+        {
+            "serial no":"4",
+            "name":"COCONUT OIL",
+            "quantity":"2",
+            "unit":"Litre",
+            "department":"Grocery",
+            "notes":"KPL"
+        },
+        {
+            "serial no":"5",
+            "name":"TEA POWDER",
+            "quantity":"500",
+            "unit":"gram",
+            "department":"Grocery",
+            "notes":"Red label"
+        },
+        {
+            "serial no":"6",
+            "name":"ONION",
+            "quantity":"2",
+            "unit":"Kilo-gram",
+            "department":"Grocery",
+            "notes":"Vegetables"
+        },
+        {
+            "serial no":"7",
+            "name":"POTATO",
+            "quantity":"2",
+            "unit":"Kilo-gram",
+            "department":"Grocery",
+            "notes":"Vegetables"
+        },
+        {
+            "serial no":"8",
+            "name":"DISH WASH LIQUID",
+            "quantity":"200",
+            "unit":"milli-litres",
+            "department":"hygiene",
+            "notes":"Pril"
+        },
+        {
+            "serial no":"9",
+            "name":"TOOTH PASTE",
+            "quantity":"100",
+            "unit":"gram",
+            "department":"Beauty and hygiene",
+            "notes":"Colgate"
+        },
+        {
+            "serial no":"10",
+            "name":"BISCUIT",
+            "quantity":"200",
+            "unit":"gram",
+            "department":"Snacks and Sweets",
+            "notes":"Britannia"
+        }
+
+       
+    ]
+}
